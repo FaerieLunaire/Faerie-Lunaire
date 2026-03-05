@@ -41,3 +41,6 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+lang: pt-BR
+locale: pt_BR.UTF-8
