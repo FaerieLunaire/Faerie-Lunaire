@@ -5,10 +5,28 @@ layout: default
 <article>
   <div>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Última atualização em {{ page.last_modified_at | date: "%d de %Bde %Y" }}
-      {% endif %}
-    </time>
+    {% if page.last_modified_at %}
+  {% assign month_number = page.last_modified_at | date: "%-m" %}
+  {% assign month_name = "" %}
+  {% case month_number %}
+    {% when "1" %}{% assign month_name = "janeiro" %}
+    {% when "2" %}{% assign month_name = "fevereiro" %}
+    {% when "3" %}{% assign month_name = "março" %}
+    {% when "4" %}{% assign month_name = "abril" %}
+    {% when "5" %}{% assign month_name = "maio" %}
+    {% when "6" %}{% assign month_name = "junho" %}
+    {% when "7" %}{% assign month_name = "julho" %}
+    {% when "8" %}{% assign month_name = "agosto" %}
+    {% when "9" %}{% assign month_name = "setembro" %}
+    {% when "10" %}{% assign month_name = "outubro" %}
+    {% when "11" %}{% assign month_name = "novembro" %}
+    {% when "12" %}{% assign month_name = "dezembro" %}
+  {% endcase %}
+
+  <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+    Última atualização em {{ page.last_modified_at | date: "%d de" }} {{ month_name }} de {{ page.last_modified_at | date: "%Y" }}
+  </time>
+{% endif %}
   </div>
 
   <div id="notes-entry-container">
