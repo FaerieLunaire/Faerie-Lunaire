@@ -8,7 +8,7 @@ permalink: /
 # Bem-vindo!✨
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Comece por <span style="font-weight: bold">[[Outra vez, olá]]</span>
+Comece por <span style="font-weight: bold">[[Outra vez, olá]]</span>
 </p>
 
 Esse site foi criado para você.
