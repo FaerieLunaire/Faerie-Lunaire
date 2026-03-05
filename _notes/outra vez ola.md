@@ -5,7 +5,7 @@ title: Outra vez, olá
 ### Olá
 
 Você se lembra quando me disse que há acontecimentos em nossas vidas que merecem ser tratados com o cuidado de uma mesa posta?
- 
+
  Escolhi flores para adornar a mesa e posicionei milimetricamente os pratos e os talheres.
  Te convido para o jantar.
 

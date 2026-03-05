@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*Sobre mim.*
 
-Feel free to tell the world about what you love! 😍
+[Apenas uma fada que mora num pequeno lugar chamado lua :) ]!

@@ -5,17 +5,21 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bem-vindo!✨
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Comece por <span style="font-weight: bold">[[Outra vez, olá]]</span>
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Esse site foi criado para você.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Caso não retorne contato dentro de duas semanas, ficará indisponível.
+Se for o caso, agradeço por ter feito parte da minha vida.
+Desejo o melhor para você.
 
-<strong>Recently updated notes</strong>
+Após a leitura da publicação "[[Outra vez, olá]]", comece em [[Estrelas]]
+
+<strong>Últimas notas publicadas</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
