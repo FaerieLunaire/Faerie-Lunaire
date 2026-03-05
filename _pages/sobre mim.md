@@ -6,4 +6,4 @@ permalink: /about
 
 *Sobre mim.*
 
-[Apenas uma fada que mora num pequeno lugar chamado lua :) ]!
+Apenas uma fada que mora num pequeno lugar chamado lua :)
