@@ -8,12 +8,10 @@ permalink: /
 # Bem-vindo!✨
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-Comece por <span style="font-weight: bold">[[Outra vez, olá]]</span>
+Inicie a sua jornada pelas <span style="font-weight: bold">[[estrelas]]</span>
 </p>
 
-Como se tudo fizesse parte de uma única linha do tempo.
-
-Guie-se pelas [[estrelas]].
+"Como se tudo fizesse parte de uma única linha do tempo"
 
 
 <strong>Últimas notas publicadas</strong>
