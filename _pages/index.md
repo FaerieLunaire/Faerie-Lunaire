@@ -11,13 +11,10 @@ permalink: /
 Comece por <span style="font-weight: bold">[[Outra vez, olá]]</span>
 </p>
 
-Esse site foi criado para você.
+Como se tudo fizesse parte de uma única linha do tempo.
 
-Caso não retorne contato dentro de duas semanas, ficará indisponível.
-Se for o caso, agradeço por ter feito parte da minha vida.
-Desejo o melhor para você.
+Guie-se pelas [[estrelas]].
 
-Após a leitura da publicação "[[Outra vez, olá]]", comece em [[Estrelas]]
 
 <strong>Últimas notas publicadas</strong>
 

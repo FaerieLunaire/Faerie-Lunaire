@@ -30,4 +30,4 @@ Ainda é bobagem?
 
 Se as estrelas pudessem nos dizer alguma coisa sobre tudo o que fizemos até então, me pergunto o que diriam.
 
-Talvez diriam sobre as [[novas fronteiras]].
+Acredito que diriam sobre as nossas [[novas fronteiras]].
