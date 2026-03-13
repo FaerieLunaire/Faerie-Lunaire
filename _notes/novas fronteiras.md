@@ -31,8 +31,8 @@ Talvez por isso alguns se façam crer que possuem o direito de ditar como o mund
 e como as pessoas deveriam ser.
 Estes ficam obcecados em se tornarem “pessoas melhores” — raramente se trata sobre ter mais sensibilidade com a própria sensibilidade, mas sobre inibi-la.
 
-De tempo em tempo, esperam encontrar descanso em diferentes. prazeres e vícios.
-É natural. É humano.
+De tempo em tempo, esperam encontrar descanso em diferentes prazeres e vícios.
+É natural. Humano.
 Buscam toque enquanto buscam pelo toque.
 O toque que os desperte e os permita sonhar mesmo ao amanhecer.
 
